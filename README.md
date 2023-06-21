@@ -2,12 +2,15 @@
 ## AIM
 To create an Hospital-Data-Management-App using React,SpringBoot and SQL.
 ## ALGORITHM
-1. Create a springboot project.
-2. Add neccessary java files to the project.
-3. Connect it with a database.
-4. Now create the front end using react.
-5. Create required components in react project.
-6. Run the project.
+1. Configure a new project with the required dependencies and files.
+2. Initialise the same in IntelliJ and include file Patient.java which contains all the variables like Patient ID,name,DOB,Email and their respective constructor,getters and setters.
+3. Include Components and service files which configures and works for commands like GET,POST and DELETE.
+4. Run the file by connecting to an database by creating the same in psql.
+5. Start an react project named Hospital-data-management-frontend
+6. Include necessary functions in App.js
+7. Include the necessary .css files for all the three methods.
+8. Define separate .js files for viewing the list of patients,adding an patient,and deleting an patient.
+9. Connect with the backend server and view the output user interface in the browser.
 
 ## PROGRAM
 ### SpringBoot Program
